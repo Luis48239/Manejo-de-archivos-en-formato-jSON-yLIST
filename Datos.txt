@@ -1,0 +1,8 @@
+{"Nombre":"Jose Antonio Rivera Vazquez","Edad":"20","Sexo":"Masculino"}
+{"Nombre":"Jorge Martinez Rodriguez ","Edad":"32","Sexo":"Masculino"}
+{"Nombre":"Rosa Maria Rivera Vazquez ","Edad":"24","Sexo":"Femenino"}
+{"Nombre":"Rosalba Vazquez Madrigal ","Edad":"40","Sexo":"Femenino"}
+{"Nombre":"Consuelo Cid Morales","Edad":"20","Sexo":"Femenina"}
+{"Nombre":"Consuelo Cid Morales","Edad":"20","Sexo":"Femenina"}
+{"Nombre":"Antonio Rivera Garcia","Edad":"48","Sexo":"Masculino"}
+{"Nombre":"Fernanda Badillo Baltazar","Edad":"20","Sexo":"Femenina"}
